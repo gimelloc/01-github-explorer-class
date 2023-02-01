@@ -18,5 +18,5 @@ Apesar de já conhecer a maioria das ferramentas utilizadas, foi ótimo revisar 
 - SASS
 - Source Maps
 - Fast Refresh
-- Components, propriedades, estatos e hooks
+- Components, propriedades, estados e hooks
 - TypeScript
