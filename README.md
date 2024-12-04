@@ -1,8 +1,4 @@
-# 01-github-explorer-class
-
-Aula 1 - Trilha Ignite de 2021 da Rocketseat 💜
-
-Desenvolvido uma aplicação buscando os dados da API do Github.
+Desenvolvido uma aplicação buscando os dados da API do Github durante a Trilha Ignite de 2021 da Rocketseat.
 
 Apesar de ser um projeto simples e eu já conhecer a maioria das ferramentas utilizadas, foi ótimo revisar e entender um pouco mais delas.
 
